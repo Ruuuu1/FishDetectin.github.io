@@ -19,7 +19,8 @@ def predict_image(): ... This function is called when the "Predict Image" button
 
 def predict_species(): ... This function is called when the "Predict Species" button is clicked. It is not fully implemented, but it is intended to perform prediction on a video. It gets the video path from the entry field and uses the InceptionV3 model to predict the species of fish in the video. However, the code for this functionality is missing and needs to be added.
 
-![Screenshot (19) - Copy](https://github.com/Ruuuu1/FishDetectin.github.io/assets/123803159/3187de4d-18a7-42cf-ac99-84f8e154fc03)
+![Screenshot (19)](https://github.com/Ruuuu1/FishDetectin.github.io/assets/123803159/8fd1f5f3-d1ab-4248-be00-172d26c775e1)
+
 
 
 def reset_input(): ... This function is called when the "Reset Input" button is clicked. It clears the input fields and updates the result label with an empty string.
